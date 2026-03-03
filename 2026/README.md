@@ -4,11 +4,14 @@
 
 # Standard Operating Procedures
 
-|       Description 	|   	SOP Status  	|  		   Link  		|
-|:---------------------:|:---------------------:|:---------------------:|
-|  Attendance Policy    |       Active          | [Link](attendance/)   | 
-|  Cyber Security Readiness (CRI) | Active      | [Link](cri/)          | 
-|  Hackathon Policy     |     In-Progress       | [Link](hackathon/)    |
-|  CTF Policy           |     In-Progress       | [Link](ctf/)          |            
-|  Class Advisors       |     In-Progress       | [Link](class_advisor/)|
+|       Description 	|   	SOP Status  	|                 Creator/Maintainer                |           Link  		   | 
+|:---------------------|:----------------------:|:--------------------------------------------------|:------------------------:|
+|  Attendance Policy    |       Active          | Mr. Ramaguru Radhakrishnan & Ms. Avadhani Bindu   |     [Link](attendance)   | 
+|  Cyber Security Readiness (CRI) | Active      | Mr. Ramaguru Radhakrishnan                        |     [Link](cri)          | 
+|  Hackathon Policy     |     In-Progress       | Mr. Ramaguru Radhakrishnan & Dr. Rohini M         |     [Link](hackathon)    |
+|  CTF Policy           |     In-Progress       | Mr. Anand R Nair                                  |     [Link](ctf)          |            
+|  Class Advisors       |     In-Progress       | Mr. Ramaguru Radhakrishnan                        |  [Link](class_advisor)   |
+|  Website Update       |     In-Progress       | Mr. Ramaguru Radhakrishnan                        |  [Link](website)         |
+|  Social Media         |     In-Progress       | Mr. Ramaguru Radhakrishnan                        |  [Link](social_media)    |
+
            
