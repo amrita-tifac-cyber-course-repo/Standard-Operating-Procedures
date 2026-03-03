@@ -11,7 +11,7 @@
 |  [Attendance Policy](attendance)    |  ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan & Ms. Avadhani Bindu   | [Link](attendance)       | 
 |  [Cyber Security Readiness (CRI)](cri)  | ![](https://img.shields.io/badge/-Active-darkgreen)      | Mr. Ramaguru Radhakrishnan          |     [Link](cri)          |         
 |  [Class Advisors](class_advisor)        |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](class_advisor)   |
-|  [Placements](placements)             | ![](https://img.shields.io/badge/-In_Progress-orange)   | Dr. Jevitha K P                                |  [Link](placements)      |
+|  [Placements](placements)             | ![](https://img.shields.io/badge/-Active-darkgreen)    | Dr. Jevitha K P                                |  [Link](placements)      |
 
 ## Student Chapters
 
@@ -44,6 +44,7 @@
 |:----------------------|:-------------------------------------:|:-----------------------------------------------------------------|:------------------------:|
 |  [Website Update](website)   |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](website)         |
 |  [Social Media](social_media)  |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](social_media)    |
+
 
 
 
